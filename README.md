@@ -1,6 +1,6 @@
-# X Bookmarks Exporter
+# X Bookmarks Scraper
 
-A simple Chrome extension to export your X (Twitter) bookmarks to a JSON file for analysis.
+A simple Chrome extension to scrape and export your X (Twitter) bookmarks to a JSON file for analysis.
 
 ## Installation
 
